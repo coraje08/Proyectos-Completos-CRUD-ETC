@@ -1,0 +1,56 @@
+Subir a github
+	admin-> ya esta-
+	LOGIN PHP POO funciona apto-
+	pdo-
+	tareas/crud->es el mejor 1-
+	chat_ajax/index.php-
+	Crudajax/todo-app/ -> mejor 2	-	
+	LOGIN_CRUD_REAL_ADMIN_2020_FUNCIONA/ -> el mejor plus 1-
+	Prueba_capcha_aleluya -> pero le falta el de seguridad se salta el login o el capachat-
+	zapato_PDO -> esto es MVC-
+	AGREGAR WHATSAP CONVESADO-> archivo solo html-
+	Ajax/crud_alumnos/-
+	Ajax/email/-
+	ori_consorcio-
+	senati_PDO ===> el mejor 3 PDO
+
+
+
+
+
+=======PARA VER===========
+chat_PHP_2020
+Curso 20php 20mysql 20youtube/
+hola/consorcio2/iniciar.php
+
+
+
+
+
+
+
+=========para corregir
+2020/LoginPrivilegios
+
+======par aeliminar
+Carro Compras JavaScript no funca nose
+consorcio_aun_no_funciona
+
+====FALTA TERMINAR======
+
+Curso_php_youtube_uno/mysqli_conexion_POO/
+LOGIN_PHP_PDO_AVANZADO
+programando_cualquiercora
+siatec
+youPHP 
+/CURSO_POO%20_COPIA/
+Carro de compra
+Login-y-Registro-con-PHP---PDO-master
+SOLO LOGIN PHP FUNCIONA ALELUYA METODO RARO
+Web 20completo
+Ajax/CRUD-> tiene errores
+Carrito-de-compras-master ====> esto es de java
+cursoPHP/registrar_datos.php
+Login_Normal_PDO
+phplogincreo
+sport/production/login.html
